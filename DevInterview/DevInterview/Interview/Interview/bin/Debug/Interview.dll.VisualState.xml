@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1016]C:\Users\HajaMohideen\Desktop\EasyJet\DevInterview\Interview\Interview\bin\Debug\Interview.dll</TopNode>
+  <SelectedNode>[0-1017]Interview</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1016]C:\Users\HajaMohideen\Desktop\EasyJet\DevInterview\Interview\Interview\bin\Debug\Interview.dll" Expanded="true" />
+    <Node UniqueName="[0-1017]Interview" Expanded="true" />
+    <Node UniqueName="[0-1018]Interview.Test" Expanded="true" />
+    <Node UniqueName="[0-1019]Interview.Test.All" Expanded="true" />
+    <Node UniqueName="[0-1001]Interview.Test.All.WhenInMemoryHasDataGetAll" Expanded="true" />
+    <Node UniqueName="[0-1020]Interview.Test.Delete" Expanded="true" />
+    <Node UniqueName="[0-1004]Interview.Test.Delete.WhenDeletingAnItemFromInMemory" Expanded="true" />
+    <Node UniqueName="[0-1021]Interview.Test.FindBy" Expanded="true" />
+    <Node UniqueName="[0-1007]Interview.Test.FindBy.WhenFindingItemById" Expanded="true" />
+    <Node UniqueName="[0-1022]Interview.Test.Save" Expanded="true" />
+    <Node UniqueName="[0-1010]Interview.Test.Save.WhenInputDataIsCorrect" Expanded="true" />
+    <Node UniqueName="[0-1014]Interview.Test.Save.WhenInputDataIsNull" Expanded="true" />
+  </Nodes>
+</VisualState>

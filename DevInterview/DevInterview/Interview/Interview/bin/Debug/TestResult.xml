@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\HajaMohideen\Desktop\EasyJet\DevInterview\Interview\Interview\bin\Debug\Interview.dll" total="10" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-05-10" time="15:22:16">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files\NUnit 2.6.3\bin" machine-name="HAJAMOHIDEEN-PC" user="HajaMohideen" user-domain="HajaMohideen-PC" />
+  <culture-info current-culture="en-GB" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\HajaMohideen\Desktop\EasyJet\DevInterview\Interview\Interview\bin\Debug\Interview.dll" executed="True" result="Success" success="True" time="0.061" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Interview" executed="True" result="Success" success="True" time="0.059" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Test" executed="True" result="Success" success="True" time="0.058" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="All" executed="True" result="Success" success="True" time="0.005" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="WhenInMemoryHasDataGetAll" executed="True" result="Success" success="True" time="0.005" asserts="0">
+                    <results>
+                      <test-case name="Interview.Test.All.WhenInMemoryHasDataGetAll.When_Collection_Items_That_Is_On_The_InMemory_Type_Must_Match" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="Interview.Test.All.WhenInMemoryHasDataGetAll.When_Collection_Of_Items_Added_Check_Items_Count" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+              <test-suite type="Namespace" name="Delete" executed="True" result="Success" success="True" time="0.006" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="WhenDeletingAnItemFromInMemory" executed="True" result="Success" success="True" time="0.005" asserts="0">
+                    <results>
+                      <test-case name="Interview.Test.Delete.WhenDeletingAnItemFromInMemory.When_Removing_An_Item_That_Does_Exists_On_InMemory" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="Interview.Test.Delete.WhenDeletingAnItemFromInMemory.When_Removing_An_Item_That_Does_Not_Exists_On_InMemory" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+              <test-suite type="Namespace" name="FindBy" executed="True" result="Success" success="True" time="0.006" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="WhenFindingItemById" executed="True" result="Success" success="True" time="0.005" asserts="0">
+                    <results>
+                      <test-case name="Interview.Test.FindBy.WhenFindingItemById.When_Finding_An_Item_That_Does_Not_Exists_On_Collection_InMemory" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="Interview.Test.FindBy.WhenFindingItemById.When_Finding_An_Item_That_Exists_On_InMemory" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+              <test-suite type="Namespace" name="Save" executed="True" result="Success" success="True" time="0.016" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="WhenInputDataIsCorrect" executed="True" result="Success" success="True" time="0.009" asserts="0">
+                    <results>
+                      <test-case name="Interview.Test.Save.WhenInputDataIsCorrect.When_Collection_Of_Input_Save_Method" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="Interview.Test.Save.WhenInputDataIsCorrect.When_Input_Id_Is_Valid_Data" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="Interview.Test.Save.WhenInputDataIsCorrect.When_Valid_Id_Provided_But_FindBy_InValid_Id" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="WhenInputDataIsNull" executed="True" result="Success" success="True" time="0.001" asserts="0">
+                    <results>
+                      <test-case name="Interview.Test.Save.WhenInputDataIsNull.When_Input_Id_Is_Null" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="Tests" executed="True" result="Inconclusive" success="False" time="0.000" asserts="0" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
